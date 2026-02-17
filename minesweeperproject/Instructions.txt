@@ -1,0 +1,27 @@
+###########################################################################################################################################################################################################################
+# Instructions Guide: How To Play Minesweeper  																						  #
+# 																											  #
+# The objective of minesweeper is to clear a minefield under an allocated time without detonating any hidden mines using numerical hints from neighbouring mines. To reveal a tile click left mouse button.               #
+# To flag a suspected mine click right mouse button.                                                                                 											  #
+###########################################################################################################################################################################################################################
+
+###########################################################################################################################################################################################################################
+#Troubleshooting Guide: Minesweeper Not Working                                                                                                                                                                           #
+#																											  #
+#If you're experiencing issues with Minesweeper not working properly, follow these steps to troubleshoot the problem:													  #
+#																											  #
+# Restart the Computer:																									  #
+# Sometimes, a simple restart can resolve temporary software glitches or conflicts. Close all running programs and restart your computer before launching the Minesweeper again.					  #
+#																											  #
+# Disable Background Applications:																							  #
+# Some background applications, such as antivirus software, can interfere with programs. Temporarily disable or close any unnecessary applications running in the background.					          #
+#																											  #
+# Run as Administrator:																									  #
+# Right-click on the program/game shortcut or executable file and select "Run as administrator." This step ensures that the program/game has the necessary permissions to access system resources.			  #
+#																											  #
+# Check for Conflicting Software:																							  #
+# Certain software, like antivirus or firewall programs, may conflict with the program/game. Temporarily disable such programs and see if the issue persists. 								  #
+#																											  #
+# Reinstall the Program/Game:																								  #
+# If all else fails, try uninstalling and reinstalling the program/game. This step can resolve issues caused by corrupted or incomplete installations.									  #
+###########################################################################################################################################################################################################################

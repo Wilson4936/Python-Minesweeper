@@ -1,7 +1,7 @@
 # Python-Minesweeper
 A classic Minesweeper implementation built with Python. This project was created in mid 2023 for educational purposes to showcase core programming concepts such as grid-based logic, event handling, condition checking, and overall game design.
 
-## 📖 How to Play
+## 🎮 How to Play
 
 The objective of Minesweeper is to clear a minefield within the allocated time **without detonating any hidden mines**.
 
